@@ -1,0 +1,12 @@
+{
+        "withdrawal" :  {
+                "dero-btc"      : 0.00004,
+                "dero-ltc"      : 0.0002,
+                "dero-arrr"     : 0.001,
+                "dero-xmr"      : 0.00006
+        },
+        "swap"  : {
+                "bid": 0.75,
+                "ask": 0.75
+        }
+}

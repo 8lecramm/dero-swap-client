@@ -1,0 +1,7 @@
+{
+        "server"        : "mg25ot4aggt8dprv.myfritz.net:10413",
+        "monero_wallet" : "localhost:18090",
+        "dero_daemon"   : "localhost:10102",
+        "dero_wallet"   : "localhost:10103",
+        "pairs"         : ["xmr-dero","dero-xmr"]
+}
